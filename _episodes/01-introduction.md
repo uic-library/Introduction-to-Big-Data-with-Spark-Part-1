@@ -3,11 +3,11 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is Big data?"
+- "What is Spark?"
 objectives:
-- "First learning objective. (FIXME)"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Introduction to Big data"
+- "Introduction to Spark Framework"
 ---
 FIXME
 
