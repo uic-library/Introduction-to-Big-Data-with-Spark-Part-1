@@ -1,52 +1,45 @@
 ---
 title: "Setup"
-teaching: 0
-exercises: 10
-questions:
-- "How do I setup the software for this workshop?"
-- "What are the workshop materials for this workshop?"
-- "What data are we using for this workshop?"
-- "What is the pre-requisite knowledge I need and where do I get it?"
-- "What other information do I need to know before I begin?"
-objectives:
-- "Install necessary software for this workshop"
-- "Download data and other setup files for this workshop"
-- "Get context of data used in this workshop"
-- "Confirm I have the previous knowledge necessary to participate in this workshop"
 
-keypoints:
-- "Install X software"
-- "Install Y software"
-- "Download data/setup files x,y,z"
-- "Workshop data is from x, in y format and includes x,y,z types of data"
+
+objectives:
+- "Install PySpark using command !pip install pyspark in google colab or Jupyter"
+- "Install and setup Zoom if needed"
+- "Download data files for this workshop"
+
 ---
 
-## Software setup
+## Data files:
 
-FIXME add/edit  install instructions (automated, see comment)
+Please download the following file(s) to particpate in the workshop:
 
-{% comment %} to add automated software install instructions, add instructions available in the install instructions 
-folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
+Link to Data Set: [https://uofi.box.com/s/bb5nbosceb8062n1hlxgwogkehpamp76](https://uofi.box.com/s/bb5nbosceb8062n1hlxgwogkehpamp76)
 
-{% include install_instructions/virtual_lab.html %}
-{% include install_instructions/editor.html %}
-{% include install_instructions/videoconferencing.html %}
+Link to IPython File-1: [https://uofi.box.com/s/z0iydurtg3teizxfqw4rn0bd9gqqh4pt](https://uofi.box.com/s/z0iydurtg3teizxfqw4rn0bd9gqqh4pt)
 
-## Setup files:
-
-Please download the following files to particpate in the workshop:
-
-FIXME data: 
-FIXME script: 
-
-FIXME add links to setup files in `files` folder OR if there are many files, zip setup files, add to `files` folder
-and add link to zip file here
+Link to IPython File-2:[https://uofi.box.com/s/wy3uzxt2rawrmhput72i4z25yk6lz1dz] (https://uofi.box.com/s/wy3uzxt2rawrmhput72i4z25yk6lz1dz)
 
 ## About the Data Used in this Workshop:
 
-(if the workshop uses data)
+The dataset used is a sample insurance dataset. 
 
-FIXME add intro/description of data. Including file format and any disciplinary background needed to understand
-why the data is gathered and how it is used.
+Attributes of this data set:
 
-{% include links.md %}
+- policyID
+- statecode
+- county
+- eq_site_limit
+- hu_site_limit
+- fl_site_limit
+- fr_site_limit
+- tiv_2011
+- tiv_2012
+- eq_site_deductible
+- hu_site_deductible
+- fl_site_deductible
+- fr_site_deductible
+- point_latitude
+- point_longitude
+- line
+- construction
+- point_granularity
