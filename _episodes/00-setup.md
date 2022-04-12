@@ -17,7 +17,7 @@ Link to Data Set: [https://uofi.box.com/s/bb5nbosceb8062n1hlxgwogkehpamp76](http
 
 Link to IPython File-1: [https://uofi.box.com/s/z0iydurtg3teizxfqw4rn0bd9gqqh4pt](https://uofi.box.com/s/z0iydurtg3teizxfqw4rn0bd9gqqh4pt)
 
-Link to IPython File-2:[https://uofi.box.com/s/wy3uzxt2rawrmhput72i4z25yk6lz1dz] (https://uofi.box.com/s/wy3uzxt2rawrmhput72i4z25yk6lz1dz)
+Link to IPython File-2: [https://uofi.box.com/s/wy3uzxt2rawrmhput72i4z25yk6lz1dz](https://uofi.box.com/s/wy3uzxt2rawrmhput72i4z25yk6lz1dz)
 
 ## About the Data Used in this Workshop:
 
