@@ -1,5 +1,5 @@
 ---
-title: "Intorduction to Big Data"
+title: "Introduction to Big Data"
 time: 0
 
 objectives:
