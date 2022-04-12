@@ -7,51 +7,34 @@ boxId: kweltidiq4bv1m9ow12prsuo9x2espsd
 
 
 -------------------------------------------
-Add workshop description here. Make sure it is descriptive enough that people understand what they will learn in the workshop, but only one paragraph with no more than 3-5 sentences. (same as workshop description for event announcements)
-
-Additionally, in a second paragraph, please mention the data set or materials that will be used in the workshop and briefly describe them. Also, briefly describe some of the things that will be done with the data/materials in the workshop, "i.e. load data into Jupyter Notebook and create basic data visualizations showing the relationship between [variable 1] and [variable 2].
-
-{% comment %} briefly list workshop goals below - should be the same as the objectives from each workshop section (also repeated in the workshop overview) {% endcomment %}
+To get a basic understanding of Big data, getting audience familiarized with Pyspark platform.
 
 ## Workshop goals
-- goal #1
-- goal #2
-- goal #3  
+- To get familiarise with Tableau at an advanced level.
+- To get accustomed with Tableau Desktop and creating relationships,performing calulations and advanced charts in tableau.
 
 <br>
 > ## Pre-requisites
-> __STOP:__ before starting this workshop, please attend the following Digital Scholarship Lab workshop(s) before completing this one:
-> * [Workshop Title Here](https://researchguides.uic.edu/hub/workshops)  
->   
-> __OR__ make sure you're comfortable with the following concepts (study suggestions in parentheses)  
-> 
-> * first pre-requisite ([resource 1]())
-> * second pre-requisite ([resource 2]())
-> 
-{: .prereq}
-
+> * Familiarised with Python at an introductory level ([https://uic-library.github.io/Python_Intro/](https://uic-library.github.io/Python_Intro/))
 
 ## Workshop Content 
 
 | Section    | Overview | Time Estimate |
 | ------- | ---------- |
-|[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min|
-|Section 1|* goal(s) from section #1(objectives from section 1 page)| | 
-|Section 2|* goal(s) from section #2 (objectives from section 2 page) | | 
-|Section 3| .....| | 
-
+|[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files|0:20 min|
+|[Introduction](https://uic-library.github.io/Tableau-Advanced/01-introduction/index.html)|Understand Big data concepts| | 
+|[Relationships in Tableau](https://uic-library.github.io/Tableau-Advanced/02-Relationships/index.html)| Defining Big data and handling the Bigdata. | | 
+|[Calculations in Tableau](https://uic-library.github.io/Tableau-Advanced/03-Calculations/index.html)| Learn about hadoop as a platform to solve the Bidgata Analytics. | | 
+|[Building advanced charts in Tableau](https://uic-library.github.io/Tableau-Advanced/04-Advanced-Charts/index.html)| Spark introduction | | 
+|[Building advanced charts in Tableau](https://uic-library.github.io/Tableau-Advanced/04-Advanced-Charts/index.html)| Spark SQL | | 
+{% comment %}
 
 ## Workshop Recording
 
 {% include box_player.html id=page.boxId %}
 
+{% endcomment %}
+
 ## Survey
 
 Thank you for attending this workshop or reading through the workshop material! If you could take 3-5 min to [respond to our anonymous survey](https://uic.ca1.qualtrics.com/jfe/form/SV_5bYL8vP2EqGbAmW), we can continue to improve this workshop. We appreciate any and all feedback!
-
-
-## Next Up...
-Check out these workshops after you've completed this one:
-1. [Workshop Title]()
-2. [Workshop Title]()
-
