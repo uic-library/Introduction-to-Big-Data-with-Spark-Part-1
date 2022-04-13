@@ -23,11 +23,11 @@ To get a basic understanding of Big data, getting audience familiarized with Spa
 | Section    | Overview | Time Estimate |
 | ------- | ---------- |
 |[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files|0:20 min|
-|[Introduction](https://uic-library.github.io/Tableau-Advanced/01-introduction/index.html)|Understand Big data concepts| | 
-|[Introduction to Big Data](https://uic-library.github.io/Tableau-Advanced/02-Relationships/index.html)| Defining Big data and handling the Bigdata. | | 
-|[Introduction to Hadoop](https://uic-library.github.io/Tableau-Advanced/03-Calculations/index.html)| Learn about hadoop as a platform to solve the Bidgata Analytics. | | 
-|[Introduction to Spark](https://uic-library.github.io/Tableau-Advanced/04-Advanced-Charts/index.html)| Spark introduction | | 
-|[Spark SQL](https://uic-library.github.io/Tableau-Advanced/04-Advanced-Charts/index.html)| Spark SQL | | 
+|[Introduction](https://uic-library.github.io/Introduction-to-Big-Data-with-Spark-Part-1/01-introduction/index.html)|Understand Big data concepts| | 
+|[Introduction to Big Data](https://uic-library.github.io/Introduction-to-Big-Data-with-Spark-Part-1/02-Intro-to-Bigdata/index.html)| Defining Big data and handling the Bigdata. | | 
+|[Introduction to Hadoop](https://uic-library.github.io/Introduction-to-Big-Data-with-Spark-Part-1/03-Hadoop-Intro/index.html)| Learn about hadoop as a platform to solve the Bidgata Analytics. | | 
+|[Introduction to Spark](https://uic-library.github.io/Introduction-to-Big-Data-with-Spark-Part-1/04-Intro-Spark/index.html)| Spark introduction | | 
+|[Spark SQL](https://uic-library.github.io/Introduction-to-Big-Data-with-Spark-Part-1/05-Spark-SQL/index.html)| Spark SQL | | 
 {% comment %}
 
 ## Workshop Recording
